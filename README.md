@@ -39,7 +39,7 @@ The goal here was to refactor the existing html & css code to meet accessibility
 ![updated html file](/images/updatedHTML.png)
 ![updated html file](/images/updatedCSS.png)
 
-**Here is the deployed  URL:** [Horiseon Social Solutions Website]()
+**Here is the deployed  URL:** [Horiseon Social Solutions Website](https://teangelo1.github.io/Accessiblity_is_Key/)
 
 
 >Accessibility is Key Guys!
